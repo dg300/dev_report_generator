@@ -6,4 +6,4 @@ Tu run the program execute the following command in your terminal
 
     npm main.js
 
-Output report 'Output_Dev_acivity_report.pdf' is generated automatically after that.# repo-name
+Output report 'Output_Dev_acivity_report.pdf' is generated automatically after that.
